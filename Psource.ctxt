@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Psource
+comment1.params=pl
+comment1.target=void\ addActionListener(java.awt.event.ActionListener)
+comment2.params=pl
+comment2.target=void\ removeActionListener(java.awt.event.ActionListener)
+comment3.params=
+comment3.target=void\ trigger()
+comment4.params=
+comment4.target=void\ halt()
+comment5.params=Time
+comment5.target=void\ setTime(int)
+comment6.params=
+comment6.target=int\ getTime()
+comment7.params=Gen
+comment7.target=void\ setGen(int)
+numComments=8

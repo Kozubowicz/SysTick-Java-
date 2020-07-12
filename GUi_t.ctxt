@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GUi_t
+comment1.params=
+comment1.target=GUi_t()
+comment10.params=e
+comment10.target=void\ removeUpdate(javax.swing.event.DocumentEvent)
+comment11.params=arg
+comment11.target=void\ sample(java.lang.String[])
+comment2.params=
+comment2.target=void\ makeGUi_t()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment7.params=e
+comment7.target=void\ insertUpdate(javax.swing.event.DocumentEvent)
+comment8.params=c0
+comment8.target=void\ updateGraph(boolean)
+comment9.params=e
+comment9.target=void\ changedUpdate(javax.swing.event.DocumentEvent)
+numComments=12

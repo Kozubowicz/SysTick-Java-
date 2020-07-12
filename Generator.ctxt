@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Generator
+comment1.params=listener
+comment1.target=void\ addActionListener(java.awt.event.ActionListener)
+comment10.params=EGEN
+comment10.target=void\ setEGEN(boolean)
+comment11.params=
+comment11.target=boolean\ getEGEN()
+comment12.params=
+comment12.target=void\ run()
+comment2.params=listener
+comment2.target=void\ removeActionListener(java.awt.event.ActionListener)
+comment3.params=
+comment3.target=Generator()
+comment4.params=
+comment4.target=void\ trigger()
+comment5.params=
+comment5.target=void\ halt()
+comment6.params=Gen
+comment6.target=void\ setGen(int)
+comment7.params=
+comment7.target=int\ getGen()
+comment8.params=Time
+comment8.target=void\ setTime(int)
+comment9.params=
+comment9.target=int\ getTime()
+numComments=13

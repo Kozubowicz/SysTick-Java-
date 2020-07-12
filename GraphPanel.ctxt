@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GraphPanel
+comment1.params=
+comment1.target=GraphPanel()
+comment10.params=
+comment10.target=java.util.List\ getScores()
+comment2.params=listener
+comment2.target=void\ addActionListener(java.awt.event.ActionListener)
+comment3.params=listener
+comment3.target=void\ removeActionListener(java.awt.event.ActionListener)
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=
+comment5.target=double\ getMinScore()
+comment6.params=
+comment6.target=double\ getMaxScore()
+comment7.params=RVR
+comment7.target=void\ setRVR(int)
+comment8.params=
+comment8.target=int\ getRVR()
+comment9.params=scores\ RVR
+comment9.target=void\ setScores(java.util.List,\ int)
+numComments=11
